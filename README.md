@@ -44,7 +44,7 @@ Figma
 
 ## Prototype
 
-https://www.figma.com/design/DPbwnFxJLC8aFC4nSWXBv3/Untitled?node-id=0- 1&p=f&t=crgnIb1r4Wfpe4aS-0
+https://www.figma.com/design/DPbwnFxJLC8aFC4nSWXBv3/Untitled?node-id=0- 
 
 ## Competition
 
